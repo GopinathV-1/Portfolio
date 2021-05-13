@@ -16,8 +16,8 @@ h3{
 h1{
   color: #e9f0f0;
   position: absolute;
-  top: 200px;
-  left: 100px;
+  top: 20%;
+  left: 10%;
   font-size: 70px;
   font-family: 'Itim', cursive;
 }
@@ -113,12 +113,12 @@ button:hover{
 }
 @media only screen and (max-width: 1000px){
   h1,h2,h3{
-    font-size: 100%;
+    font-size: 140%;
   }
 
   h1{
-    top: 35px;
-    left: 35px;
+    top: 20%;
+    left: 10%;
   }
   hr{
     margin: 50px auto;
