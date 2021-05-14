@@ -134,6 +134,7 @@ button:hover{
     display: none;
   }
   .profile-pic{
+    height: 40%;
     width: 40%;
   }
   .middle-container{
